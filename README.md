@@ -13,3 +13,24 @@
 
 - creating list
   - list
+ 
+### unordered list
+ - MSD
+ - STOKSEY
+ - PSPK
+ - SETUPATHI
+ 
+### orderd list
+ 1. MSD
+ 2. STOKSEY
+ 3. PSPK
+ 4. SETUPATHI
+
+### nested list
+  - cricket
+    - MSD
+      - STOKSEY
+![msd](https://images.news18.com/ibnlive/uploads/2021/10/ms-dhoni-1600-final-ipl.jpg)
+
+  
+    
