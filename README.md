@@ -38,6 +38,6 @@
 - [ ] Add delight to the experience when all tasks are complete :tada:
   
 name|s.no|jersy.no
-----|----
+----|----|----
 MSDhoni|1|7
 Stoksey|2|55
